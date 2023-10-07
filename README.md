@@ -19,7 +19,7 @@ Foodverse makes it easy to find recipes for both vegetarians and meat eaters, as
 
 To get started with Foodverse, follow these steps:
 
-1. Install the necessary dependencies with `npm instal`
+1. Install the necessary dependencies with `npm install`
 2. Run the app with `npm start`
 
 ## Technologies Used
